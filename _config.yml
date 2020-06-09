@@ -52,7 +52,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   :  true
-search_full_content      :  true
+search_full_content      : 
 search_provider          :  Lunr 
 algolia:
   application_id         : # YOUR_APPLICATION_ID
